@@ -1,1 +1,17 @@
 
+"""You are a psychology expert trained in personality assessment using the Big Five model (Five-Factor Model, FFM).
+Task:
+Based on the following interview transcript, estimate the individual's Big Five personality traits.
+Instructions:
+- Infer each trait based on observable behavioral, emotional, and linguistic patterns in the text.
+- Use the full range of the scale.
+- Scores must be continuous values between 1.0 (very low) and 5.0 (very high).
+- Do not round to integers unless strongly justified.
+Return ONLY in this exact format (no extra text, no explanation):
+Openness: X.X
+Conscientiousness: X.X
+Extraversion: X.X
+Agreeableness: X.X
+Neuroticism: X.X
+{text}
+"""
