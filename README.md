@@ -118,3 +118,23 @@ A naive baseline (mean predictor) is included for comparison.
 ---
 
 ## 📁 Repository Structure
+.
+├── prompts/ # Prompt templates
+├── src/ # Code for experiments
+├── data/ # Dataset description (link to OSF)
+├── results/ # Tables and outputs
+├── paper/ # Manuscript
+
+---
+
+## 📜 Citation
+
+If you find this work useful, please cite:
+
+
+## 📬 Contact
+
+For questions or collaboration, please contact:
+jzhu10@kent.edu
+Jianfeng Zhu  
+Kent State University
